@@ -16,16 +16,16 @@
 mikey@arlington:~$ cat ./about.txt
 ┌─────────────────────────────────────────────────────────────┐
 │  > builder of weird, useful things — fast                    │
-│  > i teach phones to use themselves and bots to talk         │
+│  > prev taught phones to use themselves and bots to talk     │
 │  > full-stack: typescript · python · swift · solidity        │
-│  > location: arlington, va                                   │
+│  > location: dallas, tx                                      │
 │  > status: always learning something new                     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ```bash
 mikey@arlington:~$ neofetch
-                           OS       :  ShipFastOS (rolling release)
+                           OS    :  mac
       .--.              UPTIME   :  since 2020 · still hacking
      |o_o |             SHELL    :  zsh + too many side projects
      |:_/ |             STACK    :  TS · Python · Swift · Go · Solidity
@@ -64,11 +64,11 @@ mikey@arlington:~$ ls -la ~/projects --sort=spicy
 | project | what it does | stack |
 |---|---|---|
 | 🤖 [**telegram-cupid-service**](https://github.com/mikeycantcode/telegram-cupid-service) | AI-driven Telegram convo manager — a worker per account, shared Postgres event bus | `Python` |
-| 📱 [**kmj03**](https://github.com/mikeycantcode/kmj03) | AI agent that controls a phone *completely autonomously* over VNC | `TypeScript` |
+| 📱 [**kmj03**](https://github.com/mikeycantcode/kmj03) | AI agent that controls a phone *autonomously* over VNC | `TypeScript` |
 | 🌐 [**BroswerControllerHarness**](https://github.com/mikeycantcode/BroswerControllerHarness) | harness for driving browsers programmatically (typo in the name is canon now) | `TypeScript` |
 | 🛰️ [**ios-proxy-switcher**](https://github.com/mikeycantcode/ios-proxy-switcher) | turn your iPhone into a SOCKS5 proxy with random IP autoswitching | `Python` |
-| 💸 [**UCLEND**](https://github.com/mikeycantcode/UCLEND) | P2P lending platform for EVM blockchains | `Solidity` |
-| 🧠 [**final_projectML**](https://github.com/mikeycantcode/final_projectML) | machine learning final project — notebooks & models | `Jupyter` |
+
+
 
 > the rest of the lab → [github.com/mikeycantcode?tab=repositories](https://github.com/mikeycantcode?tab=repositories)
 
