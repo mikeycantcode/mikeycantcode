@@ -15,7 +15,7 @@
 ```bash
 mikey@arlington:~$ cat ./about.txt
 ┌─────────────────────────────────────────────────────────────┐
-│  > builder, engineer, marketer things — fast                │
+│  > builder, engineer, marketer — make things fast           │
 │  > prev taught phones to use themselves and bots to talk    │
 │  > full-stack: typescript · python · swift · solidity       │
 │  > location: dallas, tx                                     │
