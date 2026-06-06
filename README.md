@@ -78,12 +78,11 @@ Mostly **TypeScript** & **Python** — but I'll reach for whatever ships it fast
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mikeycantcode&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=synthwave&title_color=A855F7&icon_color=EC4899" alt="github stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeycantcode&layout=compact&hide_border=true&theme=synthwave&title_color=A855F7&langs_count=8" alt="top languages" />
+<img width="100%" src="https://raw.githubusercontent.com/mikeycantcode/mikeycantcode/main/github-metrics.svg" alt="github metrics" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeycantcode&theme=synthwave&hide_border=true&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mikeycantcode&theme=radical&no-frame=true&margin-w=8&column=7" alt="trophies" />
+<img width="100%" src="https://raw.githubusercontent.com/mikeycantcode/mikeycantcode/output/github-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
