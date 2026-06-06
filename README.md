@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=mikey&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=builder%20of%20agents,%20bots%20%26%20things%20nobody%20asked%20for&descSize=18&descAlignY=62" alt="header" />
+# mikey
+
+<sub>builder of agents, bots & things nobody asked for</sub>
 
 <a href="https://github.com/mikeycantcode">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=640&lines=software+engineer+%C2%B7+dallas%2C+tx;i+teach+phones+to+use+themselves;i+make+bots+that+actually+talk;always+learning+something+new" alt="typing" />
