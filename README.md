@@ -15,11 +15,11 @@
 ```bash
 mikey@arlington:~$ cat ./about.txt
 ┌─────────────────────────────────────────────────────────────┐
-│  > builder of weird, useful things — fast                    │
-│  > prev taught phones to use themselves and bots to talk     │
-│  > full-stack: typescript · python · swift · solidity        │
-│  > location: dallas, tx                                      │
-│  > status: always learning something new                     │
+│  > builder, engineer, marketer things — fast                │
+│  > prev taught phones to use themselves and bots to talk    │
+│  > full-stack: typescript · python · swift · solidity       │
+│  > location: dallas, tx                                     │
+│  > status: always learning something new                    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
