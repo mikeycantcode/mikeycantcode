@@ -29,6 +29,11 @@ Conversational outreach platform for creator clients — FastAPI/Postgres, self-
 
 Persistent AI agents in Firecracker-microVM sandboxes for DevOps automation, architected for thousands of concurrent agents.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/in10nt-arch-dark.svg">
+  <img src="assets/in10nt-arch-light.svg" alt="in10nt architecture: dashboard → API control plane → Firecracker microVMs running agent-servers → LLM providers, with Firestore and Stripe" width="720">
+</picture>
+
 ---
 
 **Day job** — Artifactory platform @ Capital One: CI/CD + artifact distribution for 600+ apps bank-wide.
